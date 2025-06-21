@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By Abdulrahman",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name MANKA-MD",
     "stop": "pm2 stop MANKA-MD",
     "restart": "pm2 restart MANKA-MD"
   },
