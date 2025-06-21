@@ -1,12 +1,12 @@
 {
-  "name": "Botname-MD",
+  "name": "MANKA-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By YOUR NAME",
+  "description": "A WhatsApp Bot Created By Abdulrahman",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Botname-MD",
-    "stop": "pm2 stop Botname-MD",
-    "restart": "pm2 restart Botne-MD"
+    "stop": "pm2 stop MANKA-MD",
+    "restart": "pm2 restart MANKA-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
